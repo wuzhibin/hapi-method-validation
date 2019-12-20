@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "code@wuzhibin.me"
+  },
+  "bugs": {
+    "url": "https://github.com/wuzhibin/hapi-method-validation/issues"
+  },
+  "dependencies": {
+    "boom": "^7.2.0",
+    "joi": "^13.4.0"
+  },
+  "description": "优化版hapi-405-routes，功能完全一样。",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "hapi-method-validation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuzhibin/hapi-method-validation"
+  },
+  "version": "1.0.4"
+}
